@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Primer archivo del curso de Platzi</title>
+  </head>
+  <body>
+    <p>Hola <strong>Mama</strong>, ya casi aprendo</p>
+    <p> Este es otro párrafo </p>
+    <script>
+    	document.write("Mensaje especial");
+    </script>
+    
+  </body>
+</html>
